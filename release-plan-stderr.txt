@@ -1,0 +1,22 @@
+# Unlabeled Changes
+
+* `ember-template-lint`
+  * [#3087](https://github.com/ember-template-lint/ember-template-lint/pull/3087) Remove bad advice about ember-composable-helpers ([@ef4](https://github.com/ef4))
+  * [#3045](https://github.com/ember-template-lint/ember-template-lint/pull/3045) Update fuse.js to v7 ([@bmish](https://github.com/bmish))
+  * [#3044](https://github.com/ember-template-lint/ember-template-lint/pull/3044) Refresh lockfile ([@bmish](https://github.com/bmish))
+  * [#3032](https://github.com/ember-template-lint/ember-template-lint/pull/3032) Update some dev deps ([@bmish](https://github.com/bmish))
+  * [#2848](https://github.com/ember-template-lint/ember-template-lint/pull/2848) Use renamed @release-it-plugins/lerna-changelog ([@bmish](https://github.com/bmish))
+  * [#2847](https://github.com/ember-template-lint/ember-template-lint/pull/2847) Refresh lockfile ([@bmish](https://github.com/bmish))
+  * [#2800](https://github.com/ember-template-lint/ember-template-lint/pull/2800) no-unnecessary-curly-parens: allow parens around helper ([@raycohen](https://github.com/raycohen))
+  * [#2664](https://github.com/ember-template-lint/ember-template-lint/pull/2664) update lockfile ([@bmish](https://github.com/bmish))
+  * [#2611](https://github.com/ember-template-lint/ember-template-lint/pull/2611) Tweak jest lint config ([@bmish](https://github.com/bmish))
+  * [#2323](https://github.com/ember-template-lint/ember-template-lint/pull/2323) Update eslint-plugin-import-helpers to 1.2.1 ([@bmish](https://github.com/bmish))
+  * [#2290](https://github.com/ember-template-lint/ember-template-lint/pull/2290) Use double quotes for markdownlint script ([@bmish](https://github.com/bmish))
+  * [#2244](https://github.com/ember-template-lint/ember-template-lint/pull/2244) Run all CI jobs simultaneously ([@bmish](https://github.com/bmish))
+  * [#2214](https://github.com/ember-template-lint/ember-template-lint/pull/2214) Run linters in parallel ([@ddzz](https://github.com/ddzz))
+  * [#2200](https://github.com/ember-template-lint/ember-template-lint/pull/2200) chore(dev-deps): update yeoman-test to v6 ([@bmish](https://github.com/bmish))
+  * [#2203](https://github.com/ember-template-lint/ember-template-lint/pull/2203) Update internal Node to 16.13.0 and yarn to 1.22.17 with volta ([@bmish](https://github.com/bmish))
+  * [#2181](https://github.com/ember-template-lint/ember-template-lint/pull/2181) Add `/coverage` to .eslintignore ([@dcyriller](https://github.com/dcyriller))
+
+
+*Cannot plan release until the above changes are labeled*.
